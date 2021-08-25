@@ -1,4 +1,4 @@
-#!/home/mvvsmk/GitHub Repos/blogsite_django/django_project/django_env/bin/python3
+#!/home/mvvsmk/code/blogsite_django/django_project/django_env/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

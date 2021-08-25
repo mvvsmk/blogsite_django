@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/mvvsmk/GitHub Repos/blogsite_django/django_project/django_env/bin/python3" "$0" "$@"
-' '''
+#!/home/mvvsmk/code/blogsite_django/django_project/django_env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
