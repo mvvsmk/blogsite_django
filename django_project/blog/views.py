@@ -48,6 +48,7 @@ class PostDetailView(DetailView):
 class PostCreateView(LoginRequiredMixin,CreateView):
     model = post
     fields = ['title','content']
+    template_name = 'blog/post_create_new.html'
 
     def form_valid(self, form):
         form.instance.author = self.request.user
